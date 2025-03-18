@@ -4,9 +4,6 @@ Desenvolvedor Front-End em busca do FullStack
 
 ##
 
-<div>
- <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=gb-cmd&theme=midnight-purple&hide_border=true"/>
-</div>
 
 </br>
 
