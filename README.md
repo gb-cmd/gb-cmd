@@ -1,6 +1,6 @@
-### Olá, muito prazer! Me chamo Gabriel 😃
+### Olá, muito prazer! Me chamo Gabriel!
 
-Desenvolvedor Front-End em busca do FullStack
+Desenvolvedor Web FullStack
 
 ##
 
